@@ -140,3 +140,12 @@ body {
   box-shadow: 0 0 22px 5px rgba(0, 0, 0, 0.2);
 }
 
+.header{
+  background-color:blue;
+  height: 50px;
+  line-height: 50px;
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
